@@ -62,7 +62,7 @@
     "autoprefixer": "^10.4.20",
     "eslint": "^9",
     "eslint-config-next": "15.0.1",
-    "postcss": "^8.5.10",
+    "postcss": "^8.5.11",
     "postcss-js": "^4.0.1",
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-dom": "19.0.0-rc-69d4b800-20241021",
