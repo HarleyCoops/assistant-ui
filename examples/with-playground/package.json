@@ -13,8 +13,8 @@
     "@assistant-ui/react": "workspace:*",
     "@assistant-ui/react-playground": "workspace:*",
     "@tailwindcss/forms": "^0.5.9",
-    "next": "15.0.1",
-    "prismjs": "^1.29.0",
+    "next": "15.5.18",
+    "prismjs": "^1.30.0",
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-dom": "19.0.0-rc-69d4b800-20241021",
     "tailwindcss-animate": "^1.0.7"
