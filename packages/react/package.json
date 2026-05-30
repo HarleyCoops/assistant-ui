@@ -84,7 +84,7 @@
     "classnames": "^2.5.1",
     "json-schema": "^0.4.0",
     "lucide-react": "^0.454.0",
-    "nanoid": "^5.0.9",
+    "nanoid": "^5.1.11",
     "react-textarea-autosize": "^8.5.4",
     "secure-json-parse": "^2.7.0",
     "zod": "^3.23.8",
